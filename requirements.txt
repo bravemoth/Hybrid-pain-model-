@@ -1,0 +1,22 @@
+# Deep learning dependencies
+tensorflow>=2.15.0
+keras>=2.15.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Image processing
+opencv-python-headless>=4.8.0
+Pillow>=10.0.0
+scikit-image>=0.21.0
+
+# Machine learning
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0
+joblib>=1.3.0
+requests>=2.31.0
